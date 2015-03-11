@@ -1,0 +1,18 @@
+Vomitino
+========
+
+Vomitino is a "tongue in cheek firmware" for the HexBright (http://www.hexbright.com/) flashlight. 
+The word "vomitino", in italian, means something like "little puker" and was chosen for 2 reasons:
+
+- it follows the -ino desinence tradition, so common in Arduino based projects
+
+- it refers to the fact that the firmware implements a "stroboscopic dazzle mode", inspired by the "LED Incapacitator" (http://en.wikipedia.org/wiki/LED_Incapacitator), a security device that is rumoured be able to stop an hypothetic attacker, inducing vomiting and disorientation.
+
+While I used the same frequency range, the Vomitino lacks some of the features of its original inspirer (i.e. multicoloured light). It's meant to be just a joke and should not be considered a "self defence tool" at all: in the end it's just very bright and somewhat annoying strobe light, just like the ones you find in disco :)
+Some people have weird reactions to flashing lights in general, so try to avoid be an as… ehm... to be unpolite and silly, ok?
+And, to be clear, I'm not responsible if you manage to hurt someone with a flashlight! :)
+
+Controls:
+---------
+Click button: turn on/off the normal flashlight mode
+Click and hold: switch to "dazzle mode". When you release the button, it goes back to the previous mode.
